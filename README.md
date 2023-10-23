@@ -18,6 +18,7 @@ Finally once the verification was completed I was able to use a combination of m
 
 ## Live Page Link
 
+https://mkelly115.github.io/password-generator/
 
 ## License
 See within
